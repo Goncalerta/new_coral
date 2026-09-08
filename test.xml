@@ -70,12 +70,6 @@
       <string>woven_code</string>
     </entry>
     <entry>
-      <string>external_dependencies</string>
-      <StringList>
-        <stringList/>
-      </StringList>
-    </entry>
-    <entry>
       <string>Disable Weaving</string>
       <boolean>false</boolean>
     </entry>
@@ -162,13 +156,7 @@
     </entry>
     <entry>
       <string>aspect</string>
-      <file>out\src\test.js</file>
-    </entry>
-    <entry>
-      <string>ignoreHeaderIncludes</string>
-      <StringList>
-        <stringList/>
-      </StringList>
+      <file>out\test.js</file>
     </entry>
     <entry>
       <string>cudaPath</string>

@@ -70,12 +70,6 @@
       <string>woven_code</string>
     </entry>
     <entry>
-      <string>external_dependencies</string>
-      <StringList>
-        <stringList/>
-      </StringList>
-    </entry>
-    <entry>
       <string>Disable Weaving</string>
       <boolean>false</boolean>
     </entry>
@@ -157,24 +151,12 @@
       <string></string>
     </entry>
     <entry>
-      <string>Compiler Flags in list format</string>
-      <StringList>
-        <stringList/>
-      </StringList>
-    </entry>
-    <entry>
       <string>Check C/CXX Syntax</string>
       <boolean>false</boolean>
     </entry>
     <entry>
       <string>aspect</string>
-      <file>out\src\benchmarks.js</file>
-    </entry>
-    <entry>
-      <string>ignoreHeaderIncludes</string>
-      <StringList>
-        <stringList/>
-      </StringList>
+      <file>out\benchmarks.js</file>
     </entry>
     <entry>
       <string>cudaPath</string>
